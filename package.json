@@ -1,0 +1,15 @@
+{
+  "name": "lorkir",
+  "version": "1.0.0",
+  "description": "A Rickroll module you can give to your friends, provided they don't check the NPM listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imaperson1060",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.4.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
